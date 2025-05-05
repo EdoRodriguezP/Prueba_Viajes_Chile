@@ -1,69 +1,62 @@
-# Prueba_Viajes_Chile
+# Prueba: Desafío Latam - Viajes Chile
 
-Prueba DesafioLatam Viajes Chile
-Desarrollo prueba:
+## Desarrollo de la Prueba
 
-La agencia Viajes Chile solicita la creación de su landing page, que tenga un diseño atractivo e innovador, utilizando los conocimientos que has adquirido a través de las distintas unidades. Para esto, puedes guiarte por la siguiente estructura:
+La agencia **Viajes Chile** solicita la creación de un landing page con diseño atractivo e innovador, aplicando los conocimientos adquiridos. A continuación se detallan los requerimientos:
+
+## Estructura de la Página
 
 La página debe contener las siguientes secciones:
 
-● Una barra de navegación fija en la parte superior de la pantalla, con el logo y links a diferentes secciones de la página, haciendo un smooth scroll.
+1. **Barra de navegación**  
+   - Fija en la parte superior
+   - Logo y links a secciones (con smooth scroll)
 
-● Un carousel que muestre las imágenes destacadas del sitio.
+2. **Carousel**  
+   - Muestra imágenes destacadas del sitio
 
-● Una sección de presentación, utilizando favicons y 3 párrafos (debe desaparecer en tamaños pequeños de pantalla).
+3. **Sección de presentación**  
+   - Uso de favicons
+   - 3 párrafos (desaparece en pantallas pequeñas)
 
-● Una sección de destacados, que muestre 4 cards (tarjetas) con la imagen e información asociada.
+4. **Sección de destacados**  
+   - 4 cards con imágenes e información
 
-● Una sección de formulario de contacto.
+5. **Formulario de contacto**
 
-● Una sección footer con links a las redes sociales.
+6. **Footer**  
+   - Links a redes sociales
 
-Requerimientos
+## Requerimientos Técnicos
 
- Construir la estructura de la página usando HTML.
-(2 Puntos)
+### 1. Estructura HTML (2 pts)
+- ✔ Uso correcto de etiquetas semánticas
+- ✔ Carga adecuada de archivos y organización del directorio
 
-● Construir la estructura de un archivo HTML, utilizando correctamente las
-etiquetas semánticas para definir las distintas secciones de la página.
+### 2. Estilos CSS (2 pts)
+- ✔ Sintaxis correcta (selectores y clases)
+- ✔ Integración de recursos externos:
+  - Google Fonts
+  - Font Awesome
+- ✔ Código ordenado, documentado e indentado
 
-● Realizar correctamente la carga de archivos y organización del directorio.
-Componer visualmente el documento HTML con propiedades CSS.
-(2 Puntos)
+### 3. Componentes Bootstrap (2 pts)
+- ✔ Correcta integración del CDN de Bootstrap
+- ✔ Uso de al menos 3 componentes (excluyendo JS)
+- ✔ Implementación de:
+  - Grilla Bootstrap
+  - Clases utilitarias
+- ✔ Documentación de versiones utilizadas
 
-● Aplicar la sintaxis de CSS utilizando selectores y clases de manera correcta,
-definiendo notoriamente el aspecto visual del documento.
+### 4. Componentes JavaScript (2 pts)
+- ✔ Sintaxis adecuada de JavaScript
+- ✔ Implementación de 2+ componentes Bootstrap JS:
+  - Carousel
+  - Tooltips
+  - Entre otros
+- ✔ Código ordenado y documentado
 
-● Utilizar recursos externos como Google Fonts y Font Awesome, para definir
-estilos de fuente.
-
-● El código debe estar ordenado, documentado e indentado.
-Emplear elementos de Bootstrap en el documento HTML.
-(2 Puntos)
-
-● Realizar una correcta integración del CDN de Bootstrap.
-
-● Emplear al menos 3 componentes de Bootstrap (excluyendo aquellos con
-JavaScript), haciendo uso de la grilla y de clases utilitarias.
-
-● Documentar la versión de los recursos utilizados.
-Agregar componentes que utilicen JavaScript.
-(2 Puntos)
-
-● Utilizar adecuadamente la sintaxis de JavaScript.
-
-● Aplicar correctamente dos o más componentes de Bootstrap JS (carousel,
-tooltips, entre otros).
-
-● El código debe estar ordenado y documentado.
-
-5. Gestionar el código fuente utilizando Github.
-(2 Puntos)
-
-● Inicializar GIT para versionar el proyecto localmente, realizando 5 o más
-commits.
-
-● Implementar la creación de repositorio remoto en Github para el
-versionamiento del proyecto.
-
-● Crear la página en Github Pages.
+### 5. Gestión con GitHub (2 pts)
+- ✔ Inicialización de GIT (5+ commits)
+- ✔ Creación de repositorio remoto
+- ✔ Publicación en GitHub Pages
