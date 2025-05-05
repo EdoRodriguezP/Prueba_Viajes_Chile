@@ -1,5 +1,4 @@
 
-
 body{
     margin: 0px;
     padding: 0px;
@@ -10,21 +9,21 @@ body{
 }
 
 /* Navbar */
-.logo-size{
+.logo-size {
     width: 4%;
 }
-.text{
+.text {
     font-family: "Niconne", cursive;
     font-size: xx-large;
 }
 
 /* Cards */
-.size-card{
+.size-card {
     width: 100%;
     height: 53%;
 }
 /* Tooltip */
-.custom-tooltip{
+.custom-tooltip {
     --bs-tooltip-bg: #ffffff;
     --bs-tooltip-color: #000000;
 } 
